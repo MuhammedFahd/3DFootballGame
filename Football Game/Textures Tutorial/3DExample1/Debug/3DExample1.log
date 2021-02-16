@@ -1,0 +1,46 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1044,5): warning MSB8027: Two or more files with the name of GLee.c will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\GLee.c, ..\shared\GLee.c.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  football_game.cpp
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(94,13): warning C4244: 'initializing': conversion from 'double' to 'GLint', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(95,14): warning C4244: 'initializing': conversion from 'double' to 'GLint', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(244,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(313,21): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(362,21): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(362,18): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(362,15): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(408,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(434,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(460,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(487,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(514,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(539,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(563,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(589,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(671,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(724,35): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(728,35): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(732,35): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(736,35): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(740,35): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(744,35): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(748,35): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(752,35): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(789,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(790,43): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(795,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(796,43): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(801,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(802,41): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(807,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(808,41): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(1069,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(1212,23): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(1213,23): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(1214,23): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(1215,39): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(1218,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(1219,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\football_game.cpp(1223,31): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+GLee.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+Debug\GLee.obj : warning LNK4042: object specified more than once; extras ignored
+  3DExample1.vcxproj -> E:\iit\2nd year\sem 1\3DGP\Textures Tutorial\Textures Tutorial\Debug\3DExample1.exe
