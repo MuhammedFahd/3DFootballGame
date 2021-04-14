@@ -24,6 +24,7 @@ Uses Object Oriented Programming concepts
 - z or spacebar- shoot the ball
 
 ### how to run 
--Go to debug folder and run 3DExample1.exe
-OTHERWISE
--Open 3Dexample1.sln file using visual studio and run the football_game.cpp file(source code)
+- Go to debug folder and run 3DExample1.exe
+
+##### OTHERWISE
+- Open 3Dexample1.sln file using visual studio and run the football_game.cpp file(source code)
