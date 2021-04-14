@@ -22,3 +22,8 @@ Uses Object Oriented Programming concepts
 - Down Arrow Key - Move the vertical shooting point down
 - F - Able to obtain a closeup view. The Camera is position inches behind the ball
 - z or spacebar- shoot the ball
+
+### how to run 
+-Go to debug folder and run 3DExample1.exe
+OTHERWISE
+-Open 3Dexample1.sln file using visual studio and run the football_game.cpp file(source code)
